@@ -5,3 +5,15 @@ Created a README.md to help catelog this journey.
 Created an Index.html file.
 Within the INDEX.HTML file. created a BODY, Header and Footer.
 Started working on the "image" of google
+
+::Description of the google page::
+Top Left (an "about" link and the immediate right is a "store" link)
+Top Right (a "Gmail" link; "Images" link; "Google Apps" and a "profile pick)
+
+Center of page: GOOGLE logo and beneath that a search bar; Below that are 2 buttons "Google Search" and "I'm Feeling Lucky"
+
+Bottom Left ("Advertising" link; "Business" link; "How Search works")
+Bottom Right ("Privacy" link; "Terms" link; "Settings" link)
+
+Created NAV tags for both header and Footer for the links
+--going to pause on this project and replicate another-- Cirlce back if that fails.. 
