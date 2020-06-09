@@ -4,3 +4,4 @@ Created a GOOGLE-HOMPAGE repository on GitHub and have succesffuly cloned it loc
 Created a README.md to help catelog this journey.
 Created an Index.html file.
 Within the INDEX.HTML file. created a BODY, Header and Footer.
+Started working on the "image" of google
