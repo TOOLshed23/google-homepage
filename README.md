@@ -17,3 +17,5 @@ Bottom Right ("Privacy" link; "Terms" link; "Settings" link)
 
 Created NAV tags for both header and Footer for the links
 --going to pause on this project and replicate another-- Cirlce back if that fails.. 
+see notes on other project....
+--i added all the links that is on the Google Hompage
