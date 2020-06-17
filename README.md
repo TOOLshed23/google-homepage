@@ -19,3 +19,5 @@ Created NAV tags for both header and Footer for the links
 --going to pause on this project and replicate another-- Cirlce back if that fails.. 
 see notes on other project....
 --i added all the links that is on the Google Hompage
+linked the google image to the center of page; need to position to the middle.
+**NOTES to look into and avoid**CSS GRID (leave relative and absolute)
