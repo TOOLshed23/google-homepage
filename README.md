@@ -20,4 +20,6 @@ Created NAV tags for both header and Footer for the links
 see notes on other project....
 --i added all the links that is on the Google Hompage
 linked the google image to the center of page; need to position to the middle.
-**NOTES to look into and avoid**CSS GRID (leave relative and absolute)
+**NOTES to look into and avoid**CSS GRID (leave relative and absolute) 
+
+Was able to get the logo centered (not in the center of the page) and was able to move the links to the left and right bottom and top accordingly. Still need to fine tune their exact position.
