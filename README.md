@@ -25,3 +25,7 @@ linked the google image to the center of page; need to position to the middle.
 Was able to get the logo centered (not in the center of the page) and was able to move the links to the left and right bottom and top accordingly. Still need to fine tune their exact position.
 
 Created both an input, as well as the 2 buttons beneath the "google" image.
+**Forgot to update the README on 6/21 when i did my final push on this project
+First note... probally shouldnt use <h1> etc as the center for the elements involving the img, and buttons (i used these as a quick add)
+created a "tag" for <section> to encompass ALL of the H tags. In doing so i was able to set the height witin the style section to 60vh. (this pushed the links on the bottom, to the bottom)
+created an "id" for <h1> called "logo" this helped adjust the image to be more center of the page
